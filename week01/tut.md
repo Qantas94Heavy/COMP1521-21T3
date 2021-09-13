@@ -26,9 +26,9 @@ We'll get to it :)
 
 ## COMP1511 revision
 
-(Whoops sorry sent the wrong link)
-https://kahoot.it/challenge/05136899?challenge-id=fb707559-9d29-42bb-a6e2-1f47260b1b32_1631495232942
-https://www.learn-c.org/
+(Whoops sorry sent the wrong link)  
+https://kahoot.it/challenge/05136899?challenge-id=fb707559-9d29-42bb-a6e2-1f47260b1b32_1631495232942  
+https://www.learn-c.org/  
 https://exercism.org/tracks/c/exercises
 
 ## Tute questions

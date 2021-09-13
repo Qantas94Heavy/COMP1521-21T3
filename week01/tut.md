@@ -7,13 +7,12 @@
 
 Technically 1 hr tute, 2 hr lab but can be flexible to suit.
 
-How do the assessments work?
-The full details are in the course outline but a quick summary:
-Lab exercises: 15% (mostly done in class)
-Weekly mini-tests: 10% (due end of each week from week 3)
-Assignment 1: 15% (tentatively due beginning week 7, might change)
-Assignment 2: 15% (tentatively due end week 10, might change)
-Final exam: 45%
+Assessments
+* Lab exercises: 15% (mostly done in class)
+* Weekly mini-tests: 10% (due end of each week from week 3)
+* Assignment 1: 15% (tentatively due beginning week 7, might change)
+* Assignment 2: 15% (tentatively due end week 10, might change)
+* Final exam: 45%
 
 Course outline: https://cgi.cse.unsw.edu.au/~cs1521/21T3/outline/
 Course forum: https://discourse.cse.unsw.edu.au/21t3/comp1521/
